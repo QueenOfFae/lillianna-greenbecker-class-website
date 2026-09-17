@@ -28,12 +28,38 @@ h2 {
     margin-bottom: 20px;
 }
 
+
+#title {
+    border: 2px solid red;
+    border-radius: 15px;
+    padding: 20px;
+}
+
+#aboutme {
+    border: 2px solid red;
+    border-radius: 15px;
+    padding: 20px;
+}
+
+#cast {
+    background-color: black;
+    border: 2px solid red;
+    border-radius: 15px;
+    padding: 20px;
+}
+
 p {
     color: white;
     font-size: 20px;
     line-height: 1.5;
     max-width: 750px;
     margin: 20px auto;
+}
+
+#cardsuits {
+    color: #ff0000;
+    font-size: 22px;
+    margin: 10px auto;
 }
 
 a {
