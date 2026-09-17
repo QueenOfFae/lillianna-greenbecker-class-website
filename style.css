@@ -82,13 +82,17 @@ blockquote {
     border-bottom: 2px solid blueviolet;
 }
 
-button {
-    color: black;
-    background-color: #ffcc00;
-    font-family: Georgia, serif;
-    font-size: 18px;
-    font-weight: bold;
-    padding: 10px 20px;
-    border: 3px solid blueviolet;
-    border-radius: 10px;
+.bottle-button {
+  
+  background-image: url("Drink Me Potion.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-color: transparent;
+  border: none;
+  
+
+  width: 100px;
+  height: 200px; 
+  cursor: pointer;
 }
